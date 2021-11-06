@@ -1,3 +1,9 @@
+# [v1.0.0-beta.4](https://github.com/TomokiMiyauci/jest-extended-plus/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2021-11-06)
+
+## 🐛 Bug Fixes
+
+- [`8ce378b`](https://github.com/TomokiMiyauci/jest-extended-plus/commit/8ce378b) Fix types of toEqualOneOf
+
 # [v1.0.0-beta.3](https://github.com/TomokiMiyauci/jest-extended-plus/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2021-11-06)
 
 ## 🐛 Bug Fixes
