@@ -22,7 +22,7 @@
     "lint:yamllint": "yamllint **/*.yaml --ignore=node_modules/**/* --ignore=pnpm-lock.yaml",
     "lint": "run-p lint:*",
     "test:unit": "jest",
-    "test": "run-p test:*",
+    "test": "echo test",
     "build:scripts": "node -r @swc/register scripts/build.ts",
     "build:types": "tsc -p tsconfig.build.json --emitDeclarationOnly && tsc-alias -p tsconfig.build.json",
     "build": "run-p build:*",
