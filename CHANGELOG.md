@@ -1,3 +1,9 @@
+# [v1.0.0-beta.5](https://github.com/TomokiMiyauci/jest-extended-plus/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2021-11-06)
+
+## ✨ New Features
+
+- [`cb5f8d8`](https://github.com/TomokiMiyauci/jest-extended-plus/commit/cb5f8d8) Add &#x60;toBeNumberOrNull&#x60; and &#x60;toBeStringOrNull&#x60; matchers
+
 # [v1.0.0-beta.4](https://github.com/TomokiMiyauci/jest-extended-plus/compare/v1.0.0-beta.3...v1.0.0-beta.4) (2021-11-06)
 
 ## 🐛 Bug Fixes
