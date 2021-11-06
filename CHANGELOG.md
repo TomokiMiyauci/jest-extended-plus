@@ -1,3 +1,9 @@
+# [v1.0.0-beta.6](https://github.com/TomokiMiyauci/jest-extended-plus/compare/v1.0.0-beta.5...v1.0.0-beta.6) (2021-11-06)
+
+## 🐛 Bug Fixes
+
+- [`2009a2e`](https://github.com/TomokiMiyauci/jest-extended-plus/commit/2009a2e) Export martchers
+
 # [v1.0.0-beta.5](https://github.com/TomokiMiyauci/jest-extended-plus/compare/v1.0.0-beta.4...v1.0.0-beta.5) (2021-11-06)
 
 ## ✨ New Features
