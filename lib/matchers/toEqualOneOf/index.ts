@@ -17,7 +17,11 @@ const failMessage = (item: unknown, list: unknown[]) => () =>
   'Received:\n' +
   `  ${printReceived(item)}`
 
-const toEqualOneOf = (received: any, expected: unknown[]) => {
+/**
+ * Use `.toEqualOneOf` when checking if a value equal to a member of a given `Array`.
+ * @beta
+ */
+const toEqualOneOf = (received: unknown, expected: unknown[]) => {
   const pass = predict(received, expected)
 
   return {
