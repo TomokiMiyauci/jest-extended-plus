@@ -1,1 +1,1 @@
-require('./dist/all')
+require('./dist/all/index.cjs')

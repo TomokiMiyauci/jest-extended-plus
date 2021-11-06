@@ -145,8 +145,6 @@ jobs:
   release:
     needs: [lint, test, build]
     runs-on: ${{ matrix.os }}
-    env:
-      HUSKY: 0
 
     strategy:
       matrix:
