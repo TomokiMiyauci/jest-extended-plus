@@ -1,3 +1,9 @@
+# [v1.0.0-beta.3](https://github.com/TomokiMiyauci/jest-extended-plus/compare/v1.0.0-beta.2...v1.0.0-beta.3) (2021-11-06)
+
+## 🐛 Bug Fixes
+
+- [`f0ec0fe`](https://github.com/TomokiMiyauci/jest-extended-plus/commit/f0ec0fe) Resolve CommonJS path at entry script
+
 # [v1.0.0-beta.2](https://github.com/TomokiMiyauci/jest-extended-plus/compare/v1.0.0-beta.1...v1.0.0-beta.2) (2021-11-06)
 
 ## 🐛 Bug Fixes
