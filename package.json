@@ -75,7 +75,8 @@
     "url": "https://github.com/TomokiMiyauci/jest-extended-plus.git"
   },
   "files": [
-    "dist"
+    "dist",
+    "all.js"
   ],
   "homepage": "https://github.com/TomokiMiyauci/jest-extended-plus#readme",
   "bugs": "https://github.com/TomokiMiyauci/jest-extended-plus/issues",
