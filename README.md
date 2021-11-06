@@ -100,6 +100,30 @@ test('passes when value is in given array', () => {
 })
 ```
 
+### .toBeNumberOrNull()
+
+Use `.toBeNumberOrNull` when checking if a value is a `number` or `null`.
+
+```ts
+test('passes when value is a number or null', () => {
+  expect(0).toBeNumberOrNull()
+  expect(null).toBeNumberOrNull()
+  expect(undefined).not.toBeNumberOrNull()
+})
+```
+
+### .toBeStringOrNull([members])
+
+Use `.toBeStringOrNull` when checking if a value is a `string` or `null`.
+
+```ts
+test('passes when value is a string or null', () => {
+  expect('').toBeStringOrNull()
+  expect(null).toBeStringOrNull()
+  expect(true).not.toBeStringOrNull()
+})
+```
+
 ## Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check
