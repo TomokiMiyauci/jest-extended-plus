@@ -72,13 +72,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/coinset/.git"
+    "url": "https://github.com/TomokiMiyauci/jest-extended-plus.git"
   },
   "files": [
     "dist"
   ],
-  "homepage": "https://github.com/coinset/#readme",
-  "bugs": "https://github.com/coinset//issues",
+  "homepage": "https://github.com/TomokiMiyauci/jest-extended-plus#readme",
+  "bugs": "https://github.com/TomokiMiyauci/jest-extended-plus/issues",
   "funding": {
     "type": "patreon",
     "url": "https://www.patreon.com/tomoki_miyauci"
